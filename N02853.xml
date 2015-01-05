@@ -119,8 +119,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:003407_0000_10034C17A8C08E60" rendition="simple:additions"/>
-            <pb facs="tcp:003407_0001_10034C1B98B26728" rendition="simple:additions"/>
+            <pb facs="unknown:003407_0000_10034C17A8C08E60"
+                rendition="simple:additions"/>
+            <pb facs="unknown:003407_0001_10034C1B98B26728"
+                rendition="simple:additions"/>
             <p>THE <hi>MARYLAND MUSE.</hi>
             </p>
             <list>
@@ -141,7 +143,7 @@
                <hi>ANNAPOLIS:</hi> Printed in the Year M,DCC,XXXL</p>
          </div>
          <div type="to_the_author">
-            <pb facs="tcp:003407_0002_10034B4918952EB0"/>
+            <pb facs="unknown:003407_0002_10034B4918952EB0"/>
             <head>To the AUTHOR.</head>
             <p>
                <hi>Old Poet,</hi>
@@ -190,7 +192,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:003407_0003_10034C268CC3C2E0"/>
+            <pb n="1" facs="unknown:003407_0003_10034C268CC3C2E0"/>
             <head>BACON's Rebellion, &amp;c.</head>
             <div n="1" type="canto">
                <head>CANTO I.</head>
@@ -276,7 +278,7 @@
                      </gap>
                   </l>
                   <l>
-                     <pb n="2" facs="tcp:003407_0004_10034C3D67B67548"/>
+                     <pb n="2" facs="unknown:003407_0004_10034C3D67B67548"/>
 With whom a ſharp Diſpute began,</l>
                   <l>Wherein was kill'd both Horſe and Man;</l>
                   <l>Some Pris'ners were, ſome Cripples made,</l>
@@ -376,7 +378,7 @@ With whom a ſharp Diſpute began,</l>
                   <l>Whoſe Int'reſt lean'd the other Way;</l>
                   <l>Such as, for Honour or for Pay,</l>
                   <l>
-                     <pb n="3" facs="tcp:003407_0005_10034C3EED437E70"/>
+                     <pb n="3" facs="unknown:003407_0005_10034C3EED437E70"/>
 Made Sword and Piſtol their Vocation,</l>
                   <l>And held it an Abomination,</l>
                   <l>And baſe Diſhonour to their Station,</l>
@@ -478,7 +480,7 @@ Made Sword and Piſtol their Vocation,</l>
                   <l>WHEREFORE, at this unhappy Seaſon,</l>
                   <l>Without conſulting firſt his Reaſon,</l>
                   <l>
-                     <pb n="4" facs="tcp:003407_0006_10034C48030F91C0"/>
+                     <pb n="4" facs="unknown:003407_0006_10034C48030F91C0"/>
 (Like unadviſed <hi>Polititian</hi>)</l>
                   <l>He readily accepts Commiſſion,</l>
                   <l>From furious Mobb, who give their Hand,</l>
@@ -588,7 +590,7 @@ Made Sword and Piſtol their Vocation,</l>
                   <l>Had other private Meaſures taken.</l>
                </lg>
                <lg>
-                  <pb n="5" facs="tcp:003407_0007_10034C566D2EC5C0"/>
+                  <pb n="5" facs="unknown:003407_0007_10034C566D2EC5C0"/>
                   <l>
                      <hi>NAT</hi> (thus deluded) thought it beſt,</l>
                   <l>To let his hot Reſentment reſt;</l>
@@ -700,7 +702,7 @@ Made Sword and Piſtol their Vocation,</l>
                   <l>To <hi>Midd-Plantation,</hi> ſince by <hi>Francis,</hi>
                   </l>
                   <l>
-                     <pb n="6" facs="tcp:003407_0008_10034B37DA1E3FB0"/>
+                     <pb n="6" facs="unknown:003407_0008_10034B37DA1E3FB0"/>
 Call'd <hi>Williamsburg;</hi> makes Replication,</l>
                   <l>To BERKLEY'S ſecond Proclamation:</l>
                   <l>Then by each other, One and All,</l>
@@ -804,7 +806,7 @@ Call'd <hi>Williamsburg;</hi> makes Replication,</l>
                   <l>Might firſt be ſlain in common Slaughter.</l>
                </lg>
                <lg>
-                  <pb n="7" facs="tcp:003407_0009_1003EE8A809B3278"/>
+                  <pb n="7" facs="unknown:003407_0009_1003EE8A809B3278"/>
                   <l>SO, thus by Petticoats protected,</l>
                   <l>He rais'd the Works he had projected,</l>
                   <l>In Order to reduce the Town,</l>
@@ -910,7 +912,7 @@ Call'd <hi>Williamsburg;</hi> makes Replication,</l>
                   <l>In great Confuſion, <hi>Helter-skelter,</hi>
                   </l>
                   <l>
-                     <pb n="8" facs="tcp:003407_0010_1003ED4119B65A08"/>
+                     <pb n="8" facs="unknown:003407_0010_1003ED4119B65A08"/>
 Excepting ſuch as <hi>Bacon</hi>'s Shot</l>
                   <l>Imbargo'd dead upon the Spot,</l>
                   <l>And One or Two that in Retreat</l>
@@ -1021,7 +1023,7 @@ Excepting ſuch as <hi>Bacon</hi>'s Shot</l>
                   <l>Where News was brought, by quick Expreſs,</l>
                   <l>That <hi>Brent</hi> was leſt in great Diſtreſs,</l>
                   <l>
-                     <pb n="9" facs="tcp:003407_0011_1003ED3436BA5488"/>
+                     <pb n="9" facs="unknown:003407_0011_1003ED3436BA5488"/>
 His Men intending to deſert,</l>
                   <l>And (moſt) to take the <hi>Traytor</hi>'s Part,</l>
                   <l>Conſid'ring ſhould they follow <hi>Brent,</hi>
@@ -1130,7 +1132,7 @@ His Men intending to deſert,</l>
                      <hi>By</hi> dang'rous Illneſs up, intent,</l>
                   <l>One <hi>Bremington,</hi> 'gainſt <hi>Indian</hi> ſent;</l>
                   <l>
-                     <pb n="10" facs="tcp:003407_0012_1003ED429B72C390"/>
+                     <pb n="10" facs="unknown:003407_0012_1003ED429B72C390"/>
 Intending when he did recover,</l>
                   <l>To <hi>Eaſtern</hi> Shore to hurry over.</l>
                </lg>
@@ -1224,7 +1226,7 @@ Intending when he did recover,</l>
                </lg>
             </div>
             <div n="3" type="canto">
-               <pb n="11" facs="tcp:003407_0013_1003ED463A2F10B8"/>
+               <pb n="11" facs="unknown:003407_0013_1003ED463A2F10B8"/>
                <head>CANTO III.</head>
                <argument>
                   <l>
@@ -1315,7 +1317,7 @@ Intending when he did recover,</l>
                   <l>Was after ſome Reſiſtance made,</l>
                   <l>By <hi>Auborn</hi>'s wanton Wife betray'd;</l>
                   <l>
-                     <pb n="12" facs="tcp:003407_0014_1003ED492999EED0"/>
+                     <pb n="12" facs="unknown:003407_0014_1003ED492999EED0"/>
 And thence acroſs the <hi>Bay</hi> convey'd,</l>
                   <l>And hang'd at <hi>Accomack,</hi> 'tis ſaid.</l>
                </lg>
@@ -1423,7 +1425,7 @@ And thence acroſs the <hi>Bay</hi> convey'd,</l>
                   <l>WHEN <hi>Hubert</hi>'s miſs'd, ſtreight four or five,</l>
                   <l>Reſolve to find him dead or'live,</l>
                   <l>
-                     <pb n="13" facs="tcp:003407_0015_1003EE88E6298418"/>
+                     <pb n="13" facs="unknown:003407_0015_1003EE88E6298418"/>
 Who for their Valour dearly paid,</l>
                   <l>Being by <hi>Whaley</hi> Pris'ner made.</l>
                </lg>
@@ -1529,7 +1531,7 @@ Who for their Valour dearly paid,</l>
                   <l>To Life or Limb tho' ne'er ſo fatal.</l>
                </lg>
                <lg>
-                  <pb n="14" facs="tcp:003407_0016_1003ED32B404F4A0"/>
+                  <pb n="14" facs="unknown:003407_0016_1003ED32B404F4A0"/>
                   <l>OTHERS (by far the better Chriſtians)</l>
                   <l>Wanted Retreat to greater Diſtance;</l>
                   <l>Who thought to ſpill Man's Blood was heinous;</l>
@@ -1633,7 +1635,7 @@ Who for their Valour dearly paid,</l>
                   <l>'Who to requeſt may condeſcend,</l>
                   <l>'(Perhaps) a piteous Ear to lend:</l>
                   <l>
-                     <pb n="15" facs="tcp:003407_0017_1003EE90C397F3D0"/>
+                     <pb n="15" facs="unknown:003407_0017_1003EE90C397F3D0"/>
 'If you ſurrender to his Mercy,</l>
                   <l>'He'll pardon (I believe by Hear-ſay:)</l>
                   <l>'Beſides, ſome Time with him I ſpent,</l>
@@ -1733,7 +1735,7 @@ Who for their Valour dearly paid,</l>
                   <l>Leſt they ſhould ſtill perſiſt in War.</l>
                </lg>
                <lg>
-                  <pb n="16" facs="tcp:003407_0018_1003ED35C9CDFAB0"/>
+                  <pb n="16" facs="unknown:003407_0018_1003ED35C9CDFAB0"/>
                   <l>OH how WILL treats them with good Cheer:</l>
                   <l>With Pork, and Beef, and Drams, and Beer</l>
                   <l>Then after mutal Compliment,</l>
@@ -1819,7 +1821,7 @@ Who for their Valour dearly paid,</l>
             </div>
          </div>
          <div type="poem">
-            <pb n="17" facs="tcp:003407_0019_1003EE9719097450"/>
+            <pb n="17" facs="unknown:003407_0019_1003EE9719097450"/>
             <head>The Sotweed Factor, &amp;c.</head>
             <lg>
                <l>
@@ -1897,7 +1899,7 @@ Who for their Valour dearly paid,</l>
                <l>In ſuch a ſwimming odd Invenſion,</l>
                <l>I ſcarce can give it's due Dimenſion,</l>
                <l>
-                  <pb n="18" facs="tcp:003407_0020_1003EE9B8410D520"/>
+                  <pb n="18" facs="unknown:003407_0020_1003EE9B8410D520"/>
 The <hi>Indians</hi> call this watry Waggon,</l>
                <l>
                   <hi>Canoe,</hi> a Veſſel none can brag on,</l>
@@ -2023,7 +2025,7 @@ The <hi>Indians</hi> call this watry Waggon,</l>
                <l>She rather ſeem'd a <hi>Bedlam-Beſs.</hi>
                </l>
                <l>
-                  <pb n="19" facs="tcp:003407_0021_1003EE9D09B9F5B0"/>
+                  <pb n="19" facs="unknown:003407_0021_1003EE9D09B9F5B0"/>
 Curious to know from whence ſhe came,</l>
                <l>I preſs'd her to declare her Name?</l>
                <l>She bluſhing, ſeem'd to hide her Eyes,</l>
@@ -2152,7 +2154,7 @@ Curious to know from whence ſhe came,</l>
                <l>I thought the Cubb delicious Meat,</l>
                <l>Which ne'er did ought but Cheſnuts eat,</l>
                <l>
-                  <pb n="20" facs="tcp:003407_0022_1003ED3774E67EE8"/>
+                  <pb n="20" facs="unknown:003407_0022_1003ED3774E67EE8"/>
 Nor was young <hi>Orſon</hi>'s Fleſh the worſe,</l>
                <l>Becauſe he ſuck'd a <hi>Pagan</hi> Nurſe:</l>
                <l>Our Breakfaſt done, the Planter ſtout,</l>
@@ -2253,7 +2255,7 @@ Nor was young <hi>Orſon</hi>'s Fleſh the worſe,</l>
                <l>Nor with grey Coat had taken Pains</l>
                <l>To purge his Head, and cleanſe his Reins;</l>
                <l>
-                  <pb n="21" facs="tcp:003407_0023_1003EE9F0F3EAA08"/>
+                  <pb n="21" facs="unknown:003407_0023_1003EE9F0F3EAA08"/>
 And in Obedience to the College,</l>
                <l>Had pleas'd himſelf with carnal Knowledge;</l>
                <l>And tho' I lik'd the Younſter's Wit,</l>
@@ -2348,7 +2350,7 @@ And in Obedience to the College,</l>
                <l>In Battle, Blood, and fractious Clamour.</l>
             </lg>
             <lg>
-               <pb n="22" facs="tcp:003407_0024_1003ED3C806A04A0"/>
+               <pb n="22" facs="unknown:003407_0024_1003ED3C806A04A0"/>
                <l>I thought it proper to provide.</l>
                <l>A Lodging for my ſelf and Guide;</l>
                <l>So to our Inn we march'd away,</l>
@@ -2439,7 +2441,7 @@ And in Obedience to the College,</l>
                <l>Whoſe Fabrick, tho' 'twas built of Wood,</l>
                <l>Had many Springs and Winters ſtood:</l>
                <l>
-                  <pb n="23" facs="tcp:003407_0025_1003EEA369E88400"/>
+                  <pb n="23" facs="unknown:003407_0025_1003EEA369E88400"/>
 When ſturdy Oaks and lofty Pines,</l>
                <l>Were levell'd with Musk-Melon-Vines,</l>
                <l>And Plants eradicated were,</l>
@@ -2560,7 +2562,7 @@ When ſturdy Oaks and lofty Pines,</l>
                <l>With <hi>Cockerouſe</hi> as I was ſitting</l>
                <l>I felt a Fever intermitting,</l>
                <l>
-                  <pb n="24" facs="tcp:003407_0026_1003EEAC5EB4D318"/>
+                  <pb n="24" facs="unknown:003407_0026_1003EEAC5EB4D318"/>
 A fiery Pulſe beat in my Veins,</l>
                <l>From cold I felt reſembling Pains;</l>
                <l>This curſed Seaſoning I remember,</l>
@@ -2661,7 +2663,7 @@ A fiery Pulſe beat in my Veins,</l>
                <l>It's not ſo large as <hi>Tottenham-Court.</hi>
                </l>
                <l>
-                  <pb n="25" facs="tcp:003407_0027_1003EEAE2E38A828"/>
+                  <pb n="25" facs="unknown:003407_0027_1003EEAE2E38A828"/>
 St. <hi>Mary's</hi> once was in Repute,</l>
                <l>Now Here the Judges try the Suit,</l>
                <l>And Lawyers twice a Year diſpute.</l>
